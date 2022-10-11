@@ -1,6 +1,6 @@
 # Tugas 5 PHP
 
-1. Membuat <b>Tabel Logika Menggunakan Operator Logika</b>
+1. Membuat <b>Tabel Logika Menggunakan Operator Logika.</b>
 
 <b>Output in browser : </b>
 
